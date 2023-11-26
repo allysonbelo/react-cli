@@ -1,0 +1,24 @@
+.item-list {
+    margin: 24px 0;
+}
+
+.item-list a{
+    text-decoration: none;
+}
+
+.item-list strong {
+    color: #539bf5;
+    font-size: 24px;
+    margin: 24px 0;
+}
+
+.item-list strong:hover {
+    color: #FFFFFF;
+}
+
+
+.item-list p {
+    color: #999999;
+    font-size: 12px;
+    margin: 24px 0;
+}
